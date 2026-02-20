@@ -2,30 +2,20 @@ package com.gla.classesobjects.level1;
 
 public class Main {
     public static void main(String[] args) {
-        Restaurant restaurant1 = new Restaurant("Spice Hub", "Downtown", new String[]{"Pizza", "Burger", "Pasta"});
-        Restaurant restaurant2 = new Restaurant("Green Bowl", "City Mall", new String[]{"Salad", "Soup", "Sandwich"});
-
-        restaurant1.displayDetails();
-        System.out.println("Is Pasta available? " + restaurant1.isFoodAvailable("Pasta"));
+        Employee employee = new Employee("Riya", 1, 55000.0);
+        employee.displayDetails();
         System.out.println();
 
-        restaurant2.displayDetails();
-        System.out.println("Is Soup available? " + restaurant2.isFoodAvailable("Soup"));
+        Circle circle = new Circle(7.0);
+        circle.displayDetails();
         System.out.println();
 
-        Student student = new Student("Aman", 101, 88.5);
-        student.displayStudentDetails();
+        Item item = new Item("ITM101", "Notebook", 45.0);
+        item.displayItemDetails();
+        System.out.println("Total cost for 3 items: " + item.calculateTotalCost(3));
         System.out.println();
 
-        Employee employee = new Employee(1, "Riya", 55000.0);
-        employee.displayEmployeeDetails();
-        System.out.println();
-
-        Book book = new Book("Clean Code", "Robert C. Martin", 450.0);
-        book.displayBookDetails();
-        System.out.println();
-
-        Car car = new Car("Toyota", "Corolla", 1800000.0);
-        car.displayCarDetails();
+        MobilePhone mobilePhone = new MobilePhone("Samsung", "Galaxy S24", 79999.0);
+        mobilePhone.displayDetails();
     }
 }

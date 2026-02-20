@@ -1,20 +1,20 @@
 package com.gla.classesobjects.level1;
 
 public class Employee {
-    private int id;
     private String name;
+    private int id;
     private double salary;
 
-    public Employee(int id, String name, double salary) {
-        this.id = id;
+    public Employee(String name, int id, double salary) {
         this.name = name;
+        this.id = id;
         this.salary = salary;
     }
 
-    public void displayEmployeeDetails() {
+    public void displayDetails() {
         System.out.println("=== Employee Details ===");
-        System.out.println("ID: " + id);
         System.out.println("Name: " + name);
+        System.out.println("ID: " + id);
         System.out.println("Salary: " + salary);
     }
 }
