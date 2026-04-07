@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BridgeLabz-Training-1Y.iml" filepath="$PROJECT_DIR$/BridgeLabz-Training-1Y.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes-objects/classes-objects.iml" filepath="$PROJECT_DIR$/classes-objects/classes-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance-polymorphism/inheritance-polymorphism.iml" filepath="$PROJECT_DIR$/inheritance-polymorphism/inheritance-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces-abstraction/interfaces-abstraction.iml" filepath="$PROJECT_DIR$/interfaces-abstraction/interfaces-abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-arrays/java-arrays.iml" filepath="$PROJECT_DIR$/java-arrays/java-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-arrays/src/java-arrays2.iml" filepath="$PROJECT_DIR$/java-arrays/src/java-arrays2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-api/string-api.iml" filepath="$PROJECT_DIR$/string-api/string-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-api/src/string-api2.iml" filepath="$PROJECT_DIR$/string-api/src/string-api2.iml" />
+    </modules>
+  </component>
+</project>

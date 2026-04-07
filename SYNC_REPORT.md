@@ -1,0 +1,401 @@
+# Sync Report
+
+Compared local workspace against origin/exception-handling.
+
+- Local-only (unsynced): 390
+- Remote-only (missing locally): 0
+
+## Local-only (unsynced files)
+- .idea/.gitignore
+- .idea/misc.xml
+- .idea/modules.xml
+- .idea/vcs.xml
+- .idea/workspace.xml
+- basics/AddTwoNumbers.java
+- basics/AreaOfACircle.java
+- basics/CalculateAverageOfThreeNumbers.java
+- basics/CalculateSimpleInterest.java
+- basics/CelsiusToFahrenheitConversion.java
+- basics/ConvertKilometersToMiles.java
+- basics/java-controlflow/Level 1/CheckPosNegZero.class
+- basics/java-controlflow/Level 1/CheckPosNegZero.java
+- basics/java-controlflow/Level 1/CheckSmallestFrom3Numbers.class
+- basics/java-controlflow/Level 1/CheckSmallestFrom3Numbers.java
+- basics/java-controlflow/Level 1/CheckVotersEligibility.class
+- basics/java-controlflow/Level 1/CheckVotersEligibility.java
+- basics/java-controlflow/Level 1/ComputeResultForNaturalNumbersFOR.class
+- basics/java-controlflow/Level 1/ComputeResultForNaturalNumbersFOR.java
+- basics/java-controlflow/Level 1/ComputeResultForNaturalNumbersWHILE.class
+- basics/java-controlflow/Level 1/ComputeResultForNaturalNumbersWHILE.java
+- basics/java-controlflow/Level 1/ComputeResultOfNaturalNumbers.class
+- basics/java-controlflow/Level 1/CountDownTo1FOR.java
+- basics/java-controlflow/Level 1/CountDownTo1WHILE.java
+- basics/java-controlflow/Level 1/DivisibleBy5.class
+- basics/java-controlflow/Level 1/DivisibleBy5.java
+- basics/java-controlflow/Level 1/DivisibleBy5_changes.md
+- basics/java-controlflow/Level 1/FactorialFOR.class
+- basics/java-controlflow/Level 1/FactorialFOR.java
+- basics/java-controlflow/Level 1/FactorialWHILE.class
+- basics/java-controlflow/Level 1/FactorialWHILE.java
+- basics/java-controlflow/Level 1/LargestAmongst3Numbers.class
+- basics/java-controlflow/Level 1/LargestAmongst3Numbers.java
+- basics/java-controlflow/Level 1/SpringSeason.class
+- basics/java-controlflow/Level 1/SpringSeason.java
+- basics/java-controlflow/Level 1/SumOfNaturalNumbers.class
+- basics/java-controlflow/Level 1/SumOfNaturalNumbers.java
+- basics/java-controlflow/Level 1/SumUntilZero.class
+- basics/java-controlflow/Level 1/SumUntilZero.java
+- basics/java-controlflow/Level 1/SumUntilZeroAndNegative.class
+- basics/java-controlflow/Level 1/SumUntilZeroAndNegative.java
+- basics/java-controlflow/Level 2/EmployeeBonses.class
+- basics/java-controlflow/Level 2/EmployeeBonses.java
+- basics/java-controlflow/Level 2/Factors.java
+- basics/java-controlflow/Level 2/FactorsWhile.java
+- basics/java-controlflow/Level 2/FizzBuzz.java
+- basics/java-controlflow/Level 2/FizzBuzzWhile.java
+- basics/java-controlflow/Level 2/FriendComparator.java
+- basics/java-controlflow/Level 2/GreatestFactor.java
+- basics/java-controlflow/Level 2/GreatestFactorWhile.java
+- basics/java-controlflow/Level 2/MultiplesBelow100.java
+- basics/java-controlflow/Level 2/MultiplesBelow100While.java
+- basics/java-controlflow/Level 2/MultiplicationTable.class
+- basics/java-controlflow/Level 2/MultiplicationTable.java
+- basics/java-controlflow/Level 2/OddAndEven.class
+- basics/java-controlflow/Level 2/OddAndEven.java
+- basics/java-controlflow/Level 2/PowerOfNumber.java
+- basics/java-controlflow/Level 2/PowerOfNumberWhile.java
+- basics/java-controlflow/Level 3/AbundantNumber.java
+- basics/java-controlflow/Level 3/ArmstrongNumber.java
+- basics/java-controlflow/Level 3/BMICalculator.java
+- basics/java-controlflow/Level 3/CalculatorSwitch.java
+- basics/java-controlflow/Level 3/DayOfWeek.java
+- basics/java-controlflow/Level 3/DigitCounter.java
+- basics/java-controlflow/Level 3/GradeCalculator.java
+- basics/java-controlflow/Level 3/HarshadNumber.java
+- basics/java-controlflow/Level 3/LeapYearMultipleIf.java
+- basics/java-controlflow/Level 3/LeapYearSingleIf.java
+- basics/java-controlflow/Level 3/PrimeNumberCheck.java
+- basics/java-controlflow/Level 3/README.md
+- basics/PerimeterOfARectangle.java
+- basics/PowerCalculation.java
+- basics/Primitive-Data-Type/Level1/AgeOfHarry.java
+- basics/Primitive-Data-Type/Level1/AreaOfTriangle.java
+- basics/Primitive-Data-Type/Level1/BasicCalculator.java
+- basics/Primitive-Data-Type/Level1/ConvertKmToMilesWithInput.java
+- basics/Primitive-Data-Type/Level1/DistanceInYardsAndMiles.java
+- basics/Primitive-Data-Type/Level1/HeightConversion.java
+- basics/Primitive-Data-Type/Level1/KilometersToMiles.java
+- basics/Primitive-Data-Type/Level1/MaximumHandshakes.java
+- basics/Primitive-Data-Type/Level1/PenDistribution.java
+- basics/Primitive-Data-Type/Level1/ProfitLossCalculation.java
+- basics/Primitive-Data-Type/Level1/SamsAverageMark.java
+- basics/Primitive-Data-Type/Level1/SideOfSquare.java
+- basics/Primitive-Data-Type/Level1/StudentFeeDiscountWithInput.java
+- basics/Primitive-Data-Type/Level1/TotalPurchasePrice.java
+- basics/Primitive-Data-Type/Level1/UniversityDiscount.java
+- basics/Primitive-Data-Type/Level1/VolumeOfEarth.java
+- basics/Primitive-Data-Type/Level2/AreaOfTriangleLevel2.java
+- basics/Primitive-Data-Type/Level2/BasicCalculatorLevel2.java
+- basics/Primitive-Data-Type/Level2/DistanceConversionLevel2.java
+- basics/Primitive-Data-Type/Level2/DoubleOperations.java
+- basics/Primitive-Data-Type/Level2/IntOperations.java
+- basics/Primitive-Data-Type/Level2/QuotientAndRemainder.java
+- basics/Primitive-Data-Type/Level2/SideOfSquareLevel2.java
+- basics/Primitive-Data-Type/Level2/TotalPurchasePriceLevel2.java
+- basics/VolumeOfACylinder.java
+- basics/WelcomeToBridgeLabz.java
+- BridgeLabz-Training-1Y.iml
+- classes-objects/classes-objects.iml
+- classes-objects/src/com/gla/classesobjects/level1/Book.java
+- classes-objects/src/com/gla/classesobjects/level1/Car.java
+- classes-objects/src/com/gla/classesobjects/level1/Employee.java
+- classes-objects/src/com/gla/classesobjects/level1/Main.java
+- classes-objects/src/com/gla/classesobjects/level1/Restaurant.java
+- classes-objects/src/com/gla/classesobjects/level1/Student.java
+- encapsulation/encapsulation.iml
+- encapsulation/src/com/gla/encapsulation/level1/Book.java
+- encapsulation/src/com/gla/encapsulation/level1/CarRental.java
+- encapsulation/src/com/gla/encapsulation/level1/Circle.java
+- encapsulation/src/com/gla/encapsulation/level1/Course.java
+- encapsulation/src/com/gla/encapsulation/level1/HotelBooking.java
+- encapsulation/src/com/gla/encapsulation/level1/LibraryBook.java
+- encapsulation/src/com/gla/encapsulation/level1/Main.java
+- encapsulation/src/com/gla/encapsulation/level1/Person.java
+- encapsulation/src/com/gla/encapsulation/level1/Product.java
+- encapsulation/src/com/gla/encapsulation/level1/Vehicle.java
+- exception-handling/out/com/gla/BankAccount.class
+- exception-handling/out/com/gla/BankTransactionSystem.class
+- exception-handling/out/com/gla/CheckedExceptionFileRead.class
+- exception-handling/out/com/gla/CustomExceptionAgeValidation.class
+- exception-handling/out/com/gla/ExceptionPropagationInMethods.class
+- exception-handling/out/com/gla/FinallyBlockExecutionDemo.class
+- exception-handling/out/com/gla/InsufficientBalanceException.class
+- exception-handling/out/com/gla/InvalidAgeException.class
+- exception-handling/out/com/gla/MultipleCatchArrayOperations.class
+- exception-handling/out/com/gla/NestedTryCatchArrayDivision.class
+- exception-handling/out/com/gla/ThrowVsThrowsInterestCalculator.class
+- exception-handling/out/com/gla/TryWithResourcesFileRead.class
+- exception-handling/out/com/gla/UncheckedExceptionDivision.class
+- inheritance-polymorphism/inheritance-polymorphism.iml
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Animal.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Author.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Bird.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Book.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Car.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Cat.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/DeliveredOrder.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Developer.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Dog.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Employee.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Intern.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Main.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Manager.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Motorcycle.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Order.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/ShippedOrder.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Truck.java
+- inheritance-polymorphism/src/com/gla/inheritancepolymorphism/level1/Vehicle.java
+- interfaces-abstraction/interfaces-abstraction.iml
+- interfaces-abstraction/README.md
+- interfaces-abstraction/src/com/gla/interfacesabstraction/level1/Main.java
+- java-arrays/java-arrays.iml
+- java-arrays/src/com/gla/array/Level 1/FactorOfNumber.java
+- java-arrays/src/com/gla/array/Level 1/FizzBuzzArray.java
+- java-arrays/src/com/gla/array/Level 1/MeanHeightFootballTeam.java
+- java-arrays/src/com/gla/array/Level 1/MultiplicationTableArray.java
+- java-arrays/src/com/gla/array/Level 1/MultiplicationTableSixToNine.java
+- java-arrays/src/com/gla/array/Level 1/NumberAnalysis.java
+- java-arrays/src/com/gla/array/Level 1/OddEvenArray.java
+- java-arrays/src/com/gla/array/Level 1/StoreNumbersAndSum.java
+- java-arrays/src/com/gla/array/Level 1/TwoDToOneDArray.java
+- java-arrays/src/com/gla/array/Level 1/VotingEligibility.java
+- java-arrays/src/com/gla/array/Level 2/BMIArrayProgram.java
+- java-arrays/src/com/gla/array/Level 2/BMIUsing2DArray.java
+- java-arrays/src/com/gla/array/Level 2/DigitFrequency.java
+- java-arrays/src/com/gla/array/Level 2/EmployeeBonusCalculator.java
+- java-arrays/src/com/gla/array/Level 2/LargestSecondLargestDigit.java
+- java-arrays/src/com/gla/array/Level 2/LargestSecondLargestDynamicArray.java
+- java-arrays/src/com/gla/array/Level 2/ReverseNumberUsingArray.java
+- java-arrays/src/com/gla/array/Level 2/StudentGrade2DArray.java
+- java-arrays/src/com/gla/array/Level 2/StudentGradeCalculator.java
+- java-arrays/src/com/gla/array/Level 2/YoungestAndTallestFriend.java
+- java-arrays/src/com/gla/array/level1/FactorsOfNumber.java
+- java-arrays/src/com/gla/array/level1/FizzBuzzArray.java
+- java-arrays/src/com/gla/array/level1/MeanHeightFootballTeam.java
+- java-arrays/src/com/gla/array/level1/MultiplicationTableArray.java
+- java-arrays/src/com/gla/array/level1/MultiplicationTableSixToNine.java
+- java-arrays/src/com/gla/array/level1/NumberAnalysis.java
+- java-arrays/src/com/gla/array/level1/OddEvenArray.java
+- java-arrays/src/com/gla/array/level1/StoreNumbersAndSum.java
+- java-arrays/src/com/gla/array/level1/TwoDToOneDArray.java
+- java-arrays/src/com/gla/array/level1/VotingEligibility.java
+- java-arrays/src/com/gla/array/level2/BMIArrayProgram.java
+- java-arrays/src/com/gla/array/level2/BMIUsing2DArray.java
+- java-arrays/src/com/gla/array/level2/DigitFrequency.java
+- java-arrays/src/com/gla/array/level2/EmployeeBonusCalculator.java
+- java-arrays/src/com/gla/array/level2/LargestSecondLargestDigit.java
+- java-arrays/src/com/gla/array/level2/LargestSecondLargestDynamicArray.java
+- java-arrays/src/com/gla/array/level2/ReverseNumberUsingArray.java
+- java-arrays/src/com/gla/array/level2/StudentGrade2DArray.java
+- java-arrays/src/com/gla/array/level2/StudentGradeCalculator.java
+- java-arrays/src/com/gla/array/level2/YoungestAndTallestFriend.java
+- java-arrays/src/java-arrays2.iml
+- methods/methods.iml
+- methods/README.md
+- methods/src/com/gla/methods/level1/Main.java
+- methods/src/com/gla/methods/level2/Main.java
+- multithreading/multithreading.iml
+- multithreading/out/com/gla/multithreading/bank/BankAccount.class
+- multithreading/out/com/gla/multithreading/bank/BankSimulationMain.class
+- multithreading/out/com/gla/multithreading/bank/UserThread.class
+- multithreading/out/com/gla/multithreading/examhall/ExamHallManagementMain$AttendanceTask.class
+- multithreading/out/com/gla/multithreading/examhall/ExamHallManagementMain$CollectionTask.class
+- multithreading/out/com/gla/multithreading/examhall/ExamHallManagementMain$EntryMonitoringTask.class
+- multithreading/out/com/gla/multithreading/examhall/ExamHallManagementMain$QuestionPaperTask.class
+- multithreading/out/com/gla/multithreading/examhall/ExamHallManagementMain.class
+- multithreading/out/com/gla/multithreading/fooddelivery/DeliveryTask.class
+- multithreading/out/com/gla/multithreading/fooddelivery/FoodDeliveryMain.class
+- multithreading/out/com/gla/multithreading/fooddelivery/Order.class
+- multithreading/out/com/gla/multithreading/smarthome/DeviceTask.class
+- multithreading/out/com/gla/multithreading/smarthome/SmartHomeAutomationMain.class
+- multithreading/out/com/gla/multithreading/support/SupportTicketSystemMain.class
+- multithreading/out/com/gla/multithreading/support/SupportTicketThread.class
+- multithreading/sources.txt
+- projects/.idea/.gitignore
+- projects/.idea/misc.xml
+- projects/.idea/modules.xml
+- projects/.idea/vcs.xml
+- projects/.idea/workspace.xml
+- projects/EmployeeManagement.java
+- projects/out/production/projects/projects/.idea/.gitignore
+- projects/out/production/projects/projects/.idea/misc.xml
+- projects/out/production/projects/projects/.idea/modules.xml
+- projects/out/production/projects/projects/.idea/vcs.xml
+- projects/out/production/projects/projects/.idea/workspace.xml
+- projects/out/production/projects/projects/Employee.class
+- projects/out/production/projects/projects/EmployeeManagement.class
+- projects/out/production/projects/projects/projects.iml
+- projects/projects.iml
+- string-api/src/com/gla/string/level1/ArrayIndexOutOfBoundsDemo.java
+- string-api/src/com/gla/string/Level-1/ArrayIndexOutOfBoundsDemo.java
+- string-api/src/com/gla/string/level1/CharactersArrayComparison.java
+- string-api/src/com/gla/string/Level-1/CharactersArrayComparison.java
+- string-api/src/com/gla/string/level1/CompareStrings.java
+- string-api/src/com/gla/string/Level-1/CompareStrings.java
+- string-api/src/com/gla/string/level1/IllegalArgumentExceptionDemo.java
+- string-api/src/com/gla/string/Level-1/IllegalArgumentExceptionDemo.java
+- string-api/src/com/gla/string/level1/LowerCaseConversion.java
+- string-api/src/com/gla/string/Level-1/LowerCaseConversion.java
+- string-api/src/com/gla/string/level1/NullPointerExceptionDemo.java
+- string-api/src/com/gla/string/Level-1/NullPointerExceptionDemo.java
+- string-api/src/com/gla/string/level1/NumberFormatExceptionDemo.java
+- string-api/src/com/gla/string/Level-1/NumberFormatExceptionDemo.java
+- string-api/src/com/gla/string/level1/StringIndexOutOfBoundsDemo.java
+- string-api/src/com/gla/string/Level-1/StringIndexOutOfBoundsDemo.java
+- string-api/src/com/gla/string/level1/SubstringUsingCharAt.java
+- string-api/src/com/gla/string/Level-1/SubstringUsingCharAt.java
+- string-api/src/com/gla/string/level1/UpperCaseConversion.java
+- string-api/src/com/gla/string/Level-1/UpperCaseConversion.java
+- string-api/src/com/gla/string/level2/CharacterTypeDisplay.java
+- string-api/src/com/gla/string/Level-2/CharacterTypeDisplay.java
+- string-api/src/com/gla/string/level2/RockPaperScissorsGame.java
+- string-api/src/com/gla/string/Level-2/RockPaperScissorsGame.java
+- string-api/src/com/gla/string/level2/ShortestAndLongestWord.java
+- string-api/src/com/gla/string/Level-2/ShortestAndLongestWord.java
+- string-api/src/com/gla/string/level2/SplitTextWithoutSplit.java
+- string-api/src/com/gla/string/Level-2/SplitTextWithoutSplit.java
+- string-api/src/com/gla/string/level2/StringLengthWithoutLength.java
+- string-api/src/com/gla/string/Level-2/StringLengthWithoutLength.java
+- string-api/src/com/gla/string/level2/StudentScoreCard.java
+- string-api/src/com/gla/string/Level-2/StudentScoreCard.java
+- string-api/src/com/gla/string/level2/TrimSpacesUsingCharAt.java
+- string-api/src/com/gla/string/Level-2/TrimSpacesUsingCharAt.java
+- string-api/src/com/gla/string/level2/VotingEligibilityStringMethod.java
+- string-api/src/com/gla/string/Level-2/VotingEligibilityStringMethod.java
+- string-api/src/com/gla/string/level2/VowelConsonantCount.java
+- string-api/src/com/gla/string/Level-2/VowelConsonantCount.java
+- string-api/src/com/gla/string/level2/WordsAndLength2DArray.java
+- string-api/src/com/gla/string/Level-2/WordsAndLength2DArray.java
+- string-api/src/com/gla/string/level3/AnagramCheck.java
+- string-api/src/com/gla/string/Level-3/AnagramCheck.java
+- string-api/src/com/gla/string/level3/BMIUsing2DArray.java
+- string-api/src/com/gla/string/Level-3/BMIUsing2DArray.java
+- string-api/src/com/gla/string/level3/CharacterFrequencyASCII.java
+- string-api/src/com/gla/string/Level-3/CharacterFrequencyASCII.java
+- string-api/src/com/gla/string/level3/CharacterFrequencyNestedLoop.java
+- string-api/src/com/gla/string/Level-3/CharacterFrequencyNestedLoop.java
+- string-api/src/com/gla/string/level3/CharacterFrequencyUsingUnique.java
+- string-api/src/com/gla/string/Level-3/CharacterFrequencyUsingUnique.java
+- string-api/src/com/gla/string/level3/DeckOfCardsDistribution.java
+- string-api/src/com/gla/string/Level-3/DeckOfCardsDistribution.java
+- string-api/src/com/gla/string/level3/FirstNonRepeatingCharacter.java
+- string-api/src/com/gla/string/Level-3/FirstNonRepeatingCharacter.java
+- string-api/src/com/gla/string/level3/MonthlyCalendar.java
+- string-api/src/com/gla/string/Level-3/MonthlyCalendar.java
+- string-api/src/com/gla/string/level3/PalindromeCheckMultipleLogic.java
+- string-api/src/com/gla/string/Level-3/PalindromeCheckMultipleLogic.java
+- string-api/src/com/gla/string/level3/UniqueCharacters.java
+- string-api/src/com/gla/string/Level-3/UniqueCharacters.java
+- string-api/src/string-api2.iml
+- string-api/string-api.iml
+- workshop/Codes/Arrays/ArrayBinarySearch.java
+- workshop/Codes/Arrays/ArrayExample.java
+- workshop/Codes/Arrays/ArrayMethodsDemo.java
+- workshop/Codes/Arrays/MatrixDiagonalSum.java
+- workshop/Codes/Arrays/MoveZeroes.java
+- workshop/Codes/Arrays/RemoveDuplicatesFromSortedArray.java
+- workshop/Codes/Arrays/SumOfArray.java
+- workshop/Codes/Arrays/SumOfTwoDArray.java
+- workshop/Codes/Arrays/TwoSum.java
+- workshop/Codes/Basics/ArrayInputOutput.java
+- workshop/Codes/Basics/BasicVariableTypes.java
+- workshop/Codes/Basics/RandomNumberGenerator.java
+- workshop/Codes/Basics/TwoNumberAddition.java
+- workshop/Codes/Basics/VariableScopesDemo.java
+- workshop/Codes/ClassRoom.md
+- workshop/Codes/Concepts.md
+- workshop/Codes/Constructor/ConstructorExample.java
+- workshop/Codes/ControlFlow/AgeEligibilitySwitch.java
+- workshop/Codes/ControlFlow/IfElseExample.java
+- workshop/Codes/ControlFlow/StarPatterns.java
+- workshop/Codes/Input/ScannerInputDemo.java
+- workshop/Codes/Loops/EnhancedForLoopDemo.java
+- workshop/Codes/Loops/ForLoopDemo.java
+- workshop/Codes/Loops/LoopExampleDemo.java
+- workshop/Codes/Loops/OddNumbersWithContinue.java
+- workshop/Codes/Loops/WhileLoopExamples.java
+- workshop/Codes/Methods/AdditionExample.java
+- workshop/Codes/Methods/BasicMethodDemo.java
+- workshop/Codes/Methods/MethodOverloadingDemo.java
+- workshop/Codes/OOP/Alphabet.class
+- workshop/Codes/OOP/Animal.class
+- workshop/Codes/OOP/Child.class
+- workshop/Codes/OOP/Dog.class
+- workshop/Codes/OOP/Gemini.class
+- workshop/Codes/OOP/Google.class
+- workshop/Codes/OOP/Hybrid.class
+- workshop/Codes/OOP/Hybrid.java
+- workshop/Codes/OOP/MethodOverridingDemo.java
+- workshop/Codes/OOP/MultiLev.class
+- workshop/Codes/OOP/MultiLev.java
+- workshop/Codes/OOP/MultiLevel.class
+- workshop/Codes/OOP/MultiLevel.java
+- workshop/Codes/OOP/Parent.class
+- workshop/Codes/OOP/SingleInheritance.class
+- workshop/Codes/OOP/SingleInheritance.java
+- workshop/Codes/OOP/Student.java
+- workshop/Codes/OOP/YouTube.class
+- workshop/Codes/README.md
+- workshop/Codes/Strings/FirstUniqueCharacter.java
+- workshop/Codes/Strings/LengthOfLastWord.java
+- workshop/Codes/Strings/ReverseString.java
+- workshop/Codes/Strings/StringBufferMethods.java
+- workshop/Codes/Strings/StringBuilderExample.java
+- workshop/Codes/Strings/StringConcatenationPerformance.java
+- workshop/Codes/Strings/StringMethods.java
+- workshop/Codes/Strings/StringTokenizerDemo.java
+- workshop/Codes/Threads/TaskExample.java
+- workshop/Collection-Framework/.idea/.gitignore
+- workshop/Collection-Framework/.idea/misc.xml
+- workshop/Collection-Framework/.idea/modules.xml
+- workshop/Collection-Framework/.idea/vcs.xml
+- workshop/Collection-Framework/.idea/workspace.xml
+- workshop/Collection-Framework/CF.md
+- workshop/Collection-Framework/Collection-Framework.iml
+- workshop/Collection-Framework/out/production/Collection-Framework/.idea/.gitignore
+- workshop/Collection-Framework/out/production/Collection-Framework/.idea/misc.xml
+- workshop/Collection-Framework/out/production/Collection-Framework/.idea/modules.xml
+- workshop/Collection-Framework/out/production/Collection-Framework/.idea/vcs.xml
+- workshop/Collection-Framework/out/production/Collection-Framework/.idea/workspace.xml
+- workshop/Collection-Framework/out/production/Collection-Framework/CF.md
+- workshop/Collection-Framework/out/production/Collection-Framework/Collection-Framework.iml
+- workshop/Collection-Framework/workshop/Collection/CollectionFramework.class
+- workshop/Collection-Framework/workshop/Collection/CollectionFramework.java
+- workshop/Collection-Framework/workshop/Collection/Stack.java
+- workshop/Generics/BoundGenerics.java
+- workshop/Generics/fibancci.class
+- workshop/Generics/FibonacciDemo.java
+- workshop/Generics/Number.class
+- workshop/Generics/NumberBoxDemo.java
+- workshop/Generics/practice.class
+- workshop/Generics/StudentDemo.java
+- workshop/Generics/SwapDemo.java
+- workshop/Generics/two.class
+- workshop/Generics/UnboundGenerics$GenericsPractice.class
+- workshop/Generics/UnboundGenerics.class
+- workshop/Generics/UnboundGenerics.java
+- workshop/out/BoundGenerics.class
+- workshop/out/UnboundGenerics.class
+- workshop/out/workshop/Generics/FibonacciDemo.class
+- workshop/out/workshop/Generics/NumberBox.class
+- workshop/out/workshop/Generics/NumberBoxDemo.class
+- workshop/out/workshop/Generics/Student.class
+- workshop/out/workshop/Generics/StudentDemo.class
+- workshop/out/workshop/Generics/SwapDemo.class
+- workshop/src/com/gla/workshop/interfaces/Calculator.java
+- workshop/src/com/gla/workshop/interfaces/DemoInterface.java
+- workshop/Wrapper.class
+- workshop/Wrapper.java
+
+## Remote-only (missing locally)
+- None
