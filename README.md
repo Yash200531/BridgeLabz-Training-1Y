@@ -8,7 +8,7 @@ This branch was synchronized against `origin/exception-handling`, source files w
 ## Folder Structure
 - `exception-handling/`: exception handling exercises synced from GitHub (`.java` source of the branch)
 - `multithreading/`: multithreading exercises and demos
-- `basics/`: foundational Java programs (renamed from `basic-programs` for cleaner structure)
+- `basic-programs/`: foundational Java programs
 - `workshop/`: workshop examples (arrays, control flow, OOP, strings, threads, generics)
 - `classes-objects/`, `encapsulation/`, `inheritance-polymorphism/`, `interfaces-abstraction/`, `java-arrays/`, `methods/`, `string-api/`, `projects/`: module-wise training work
 - `SYNC_REPORT.md`: full list of unsynced files compared to `origin/exception-handling`
@@ -29,7 +29,7 @@ This branch was synchronized against `origin/exception-handling`, source files w
 
 ## Newly Added/Refactored (Previously Unsynced)
 - Renamed folder:
-  - `basic-programs/` -> `basics/`
+  - `basic-programs/` retained as the canonical folder name
 - Cleaned compiled artifacts:
   - removed local `*.class` files under `exception-handling/src/com/gla/`
 - Refactored unsynced generics files for naming and readability:
